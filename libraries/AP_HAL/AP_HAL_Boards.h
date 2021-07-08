@@ -231,7 +231,7 @@
 #endif
 
 #ifndef HAL_SUPPORT_RCOUT_SERIAL
-#define HAL_SUPPORT_RCOUT_SERIAL 0
+#define HAL_SUPPORT_RCOUT_SERIAL 1
 #endif
 
 
